@@ -1,3 +1,3 @@
-#QRcode
+# QRcode
 
-###this is the back-end code
+This is the back-end code for 'Basics of program designing' course project.
